@@ -5,6 +5,7 @@ public class Program {
         System.out.println("Hello Git");
 
         String name="Nazar";
+        String surname="Diduk";
         
     }
 }
