@@ -8,5 +8,10 @@ public class Program {
         String surname="Diduk";
         String login="nazar123";
         String password="qwerty123";
+        
+        boolean bool=true;
+        if (bool) {
+            System.out.println("Nazar Diduk");
+        }
     }
 }
