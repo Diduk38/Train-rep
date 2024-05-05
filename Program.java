@@ -6,6 +6,7 @@ public class Program {
 
         String name="Nazar";
         String surname="Diduk";
-        
+        String login="nazar123";
+        String password="qwerty123";
     }
 }
