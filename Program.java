@@ -13,5 +13,14 @@ public class Program {
         if (bool) {
             System.out.println("Nazar Diduk");
         }
+
+
+        if (bool) {
+            
+        } else {
+            
+        }
+
+
     }
 }
